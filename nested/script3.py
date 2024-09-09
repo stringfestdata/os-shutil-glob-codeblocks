@@ -1,0 +1,1 @@
+Contents of nested/script3.py
